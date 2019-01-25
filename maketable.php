@@ -3,7 +3,7 @@
  
  $host="localhost";
  $user="root";
- $pw ="kek?03304";
+ $pw = password;
  $db_name ="login";
  $mysqli = new mysqli($host, $user, $pw, $db_name);
  
